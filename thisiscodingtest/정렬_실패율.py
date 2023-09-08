@@ -44,7 +44,7 @@ def solution2(N, stages):
     return answer
 
     # dic부터의 코드를 이렇게 한 줄로...
-    return sorted(dic_list, key=lambda x: dic_list[x], reverse=True)
+    return sorted(dic, key=lambda x: dic[x], reverse=True)
 
 
 # 이코테 제공 코드
