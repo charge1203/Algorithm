@@ -1,2 +1,2 @@
 # Algorithm
-사용언어: Python
+사용언어: Python, SQL
